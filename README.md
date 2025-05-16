@@ -1,11 +1,14 @@
 # Customer-Segmentation
-## Customer Segmentation by using KMeans
+### Customer Segmentation by using KMeans
+
 
 
 # 🛍️ Customer Segmentation using K-Means Clustering
 ## This project applies K-Means Clustering to segment customers based on their demographic and spending behavior using the Mall Customer Segmentation dataset. The goal is to help businesses better understand their customer base and enable targeted marketing strategies.
 
+
 # Dataset
+
 ## The dataset used is Mall_Customers.csv, containing the following features:
 
 * CustomerID
@@ -18,7 +21,6 @@
 
 * Spending Score (1-100)
 
-)
 
 ## Project Workflow
 
@@ -44,19 +46,17 @@
 * Age Distribution: Explored age frequency using histograms.
 * Gender-Based Analysis: Compared gender distribution across clusters.
 
+
 # Results & Insights
+
 ## Cluster Characteristics:
 
 ### Some clusters represented high-income, low-spending customers (possibly savers).
-
 ### Others had moderate income, high-spending customers (possibly ideal targets for promotions).
-
 ### Young customers tended to appear more frequently in high-spending clusters.
-
 ### Gender distribution was relatively balanced across clusters.
 
 ## Visualization:
 
 ### Clear segmentation was visible in scatter plots based on income and spending score.
-
 ### Pie and bar charts highlighted the proportional representation of each cluster.
